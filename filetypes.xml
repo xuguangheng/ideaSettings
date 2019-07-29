@@ -1,12 +1,13 @@
 <application>
   <component name="FileTypeManager" version="17">
+    <ignoreFiles list="*.hprof;*.iml;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.idea;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc;" />
     <extensionMap>
-      <mapping pattern=".idea" type="Android Nine-Patch" />
       <mapping pattern=".gitignore_global" type="Git file" />
       <mapping pattern="050DrainRelayConnsConsumable" type="PLAIN_TEXT" />
       <mapping ext="2019-06-18-15" type="PLAIN_TEXT" />
       <mapping ext="2019-06-18-07" type="PLAIN_TEXT" />
       <mapping ext="2019-06-19-11" type="PLAIN_TEXT" />
+      <removed_mapping pattern=".idea" approved="true" type="Ignore file" />
     </extensionMap>
   </component>
 </application>
