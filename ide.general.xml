@@ -7,5 +7,8 @@
     <entry key="ide.balloon.shadow.size" value="0" />
     <entry key="ide.mac.allowDarkWindowDecorations" value="true" />
     <entry key="git.explicit.commit.renames.prohibit.multiple.calls" value="false" />
+    <entry key="SBT.system.in.process" value="true" />
+    <entry key="BSP.experimental.feature.enabled" value="false" />
+    <entry key="BSP.system.in.process" value="true" />
   </component>
 </application>
